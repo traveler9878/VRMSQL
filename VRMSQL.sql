@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `tracker` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `tracker`;
+CREATE DATABASE  IF NOT EXISTS `vrm` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `vrm`;
 -- MySQL dump 10.13  Distrib 5.6.17, for Win32 (x86)
 --
--- Host: localhost    Database: tracker
+-- Host: localhost    Database: vrm
 -- ------------------------------------------------------
 -- Server version	5.5.8
 
